@@ -1,9 +1,11 @@
-*Week 2: Web developing*
+**Week 2: Web developing**
 ![Image](Capture.PNG)
 
 **Part 1: Setting up VS code**
 
 No image needed because vs code was already installed on the computer. To install vs code, go to vscode website and download the latest version. When completing this, install the java extensions, which can be found towards the right activity bar. 
+<pre>
+
 
 **Part 2: Remote Connectivity**
 
