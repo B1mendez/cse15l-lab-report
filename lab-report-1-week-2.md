@@ -36,4 +36,4 @@ The next step in setting up your account is setting up a ssh key which essential
 **Part 6: Optimizing Remote Running**
 
 ![Screenshot](Optimizing-Remote.png) 
-When succesfully setting up the ssh keygen you will optimize your experience using some commands for the server associated with your account. The image displays an efficient way to both store, compile, and run a file using the passphrase the user implemented with their account. 
+When succesfully setting up the ssh keygen you will optimize your experience using some commands for the server associated with your account. The image displays an efficient way to both store, compile, and run a file using the passphrase the user implemented with their account. It took me round about 36 seconds to complete the first command and 13 keystrokes to complete, but would have been around 78 keystokes to type out the command entirely (I copied and pasted the command line). None the less, the optimization is there making some scenerios more efficient when using the keygen.  
