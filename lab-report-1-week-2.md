@@ -1,6 +1,8 @@
 # Lab Report 1 - Week 2: Web developing
-![Image](Capture.PNG)
+
 [Main Menu](https://b1mendez.github.io/cse15l-lab-report/) 
+
+![Image](Capture.PNG)
 
 **Part 1: Setting up VS code**
 
