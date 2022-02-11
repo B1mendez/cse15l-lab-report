@@ -7,6 +7,8 @@
 
 [Lab Report 2](https://b1mendez.github.io/Week4_LabReport/)
 
+[Lab Report 3](https://b1mendez.github.io/Week6-LabReport/)
+
 **School: University of California San Diego**
 
 **Brian Mendez**
