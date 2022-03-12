@@ -11,6 +11,7 @@
 
 [Lab Report 4](https://b1mendez.github.io/Lab-report-4-Week-8/)
 
+[Lab Report 5](https://b1mendez.github.io/Lab-Report-5-Week10/)
 
 **School: University of California San Diego**
 
